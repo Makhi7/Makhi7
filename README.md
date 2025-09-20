@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Makhi Mangxola</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🔭 I’m currently working on [Fact-Checking App for Media Verification](https://github.com/Makhi7/solanga-news-validator)
-
 - 🌱 I’m currently learning **.NET Development Platform**
 
 - 💬 Ask me about **C#,.NET MAUI, ASP .NET**
