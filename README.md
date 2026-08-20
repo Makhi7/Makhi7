@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makhi Mangxola</h1>
-<h3 align="center">A passionate systems developer from South Africa</h3>
+<h3 align="center">A passionate software developer from South Africa</h3>
 
 - 🌱 I’m currently learning **.NET Development Platform**
 
